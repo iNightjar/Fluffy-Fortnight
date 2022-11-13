@@ -96,7 +96,7 @@ jupyter_client==7.3.5
 keyutils==0.6
 lazy-object-proxy==1.8.0
 # LibAppArmor==3.1.1
-libtorrent==2.0.8
+# libtorrent==2.0.8
 lit==14.0.6.dev0
 logutils==0.3.5
 louis==3.23.0
