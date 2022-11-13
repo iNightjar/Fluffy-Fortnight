@@ -99,7 +99,7 @@ lazy-object-proxy==1.8.0
 # libtorrent==2.0.8
 # lit==14.0.6.dev0
 logutils==0.3.5
-louis==3.23.0
+# louis==3.23.0
 lxml==4.9.1
 Mako==1.2.3
 manjaro-sdk==0.1
