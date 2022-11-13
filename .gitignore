@@ -1,0 +1,12 @@
+
+# Environment Files
+myenv
+
+# code setings
+.vscode/
+
+# cache files
+__pycache__
+
+
+
